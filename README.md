@@ -3,7 +3,9 @@ A Keras implementation for foraminifera identification. Data set and detailed pr
 
 ## Steps to run the code
 Step1: please download and extract the forams images 'NCSU-CUB Foram Images 01' to the same folder as the scripts.
+
 Step2: run keras_extract_features.py to extract features from pre-trained models.
+
 Step3: run keras_train_new_layers.py to train the new fully-connected layers for forams classification. 
 
 ## Related publications
